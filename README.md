@@ -1,11 +1,11 @@
-## Hi there 👋
+## Holaaa, soy Alejandro Villa Estada 👋
 
-<!--
-**Villaaa-01/Villaaa-01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Graduado en Marketing e Investigación de Mercados cursando actualmente un Master en Data Science.
 
-Here are some ideas to get you started:
+Soy una persona curiosa y apasionada por el mundo del Data Science y el Marketing. Me considero alegre, comunicativo y con gran capacidad para adaptarme a entornos dinámicos de trabajo.
 
-- 🔭 I’m currently working on ...
+- 🔵 Muy interesado en la recolección y tratamiento de datos para sacar insigths y aportar valor de negocio.
+- ⚡  
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
