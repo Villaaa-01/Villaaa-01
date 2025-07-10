@@ -10,7 +10,7 @@ Soy una persona curiosa y apasionada por el mundo del Data Science y el Marketin
 
 ---
 
-# 🔧🧰 Herramientas que estoy aprendiendo 🔍:
+# 🔧🧰 Herramientas que estoy aprendiendo 🔍
 
 ### Lenguajes 🗣️:
 - 🐍 Python.
