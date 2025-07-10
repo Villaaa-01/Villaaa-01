@@ -35,7 +35,7 @@ Soy una persona curiosa y apasionada por el mundo del Data Science y el Marketin
 
 ---
 
-# Idioamas 🛰️:
+# Idiomas 🛰️:
 - Español (nativo).
 - Inglés intermedio (B1) progresando hacia un nivel más avanzado (B2).
 
