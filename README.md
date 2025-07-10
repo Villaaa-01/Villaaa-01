@@ -42,5 +42,5 @@ Soy una persona curiosa y apasionada por el mundo del Data Science y el Marketin
 ---
 
 # Contacto 📧:
-- 📬 Gamil: Alexvillaestada@gmail.com
+- 📬 Gmail: Alexvillaestada@gmail.com
 - 💼 LinkedIn: www.linkedin.com/in/alexvillaestada
