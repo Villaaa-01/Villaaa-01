@@ -4,13 +4,39 @@ Graduado en Marketing e Investigación de Mercados cursando actualmente un Maste
 
 Soy una persona curiosa y apasionada por el mundo del Data Science y el Marketing. Me considero alegre, comunicativo y con gran capacidad para adaptarme a entornos dinámicos de trabajo.
 
-- 🔵 Muy interesado en la recolección y tratamiento de datos para sacar insigths y aportar valor de negocio.
-- ⚡  
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔬 Muy interesado en la recolección y tratamiento de datos para sacar insigths y aportar valor de negocio.
+- 🧮 Con especial interes en realizar presentaciones en Power BI o Tableau.
+- 📢 Además, si le damos un toque marketiniano a lo anterior... Suena mejor!
+
+---
+
+## 🔧🧰 Herramientas que estoy aprendiendo 🔍:
+
+# Lenguajes 🗣️:
+- 🐍 Python.
+
+# Bases de Datos 📂:
+- 🗄️ SQL
+
+# Visualización de Datos 📈:
+- 📊 Power BI.
+- 📉 Tableau.
+
+# Intelgencia Artificial 🧠: 
+- 🤖 Machine Learning.
+- 🕸️ Deap Learning.
+
+# Nube ☁️:
+- 🐙 Git Hub.
+
+# Entornos de trabajo 💻:
+- 📓 Jupyter Notebook.
+- 👨‍💻 Visual Code Studio.
+
+## Idioamas 🛰️:
+- Español (nativo).
+- Ingles intermedio (B1) progresando hacia un nivel más avanzado (B2).
+
+## Contacto 📧:
+- 📬 Gamil: Alexvillaestada@gmail.com
+- 💼 LinkedIn: www.linkedin.com/in/alexvillaestada
