@@ -34,8 +34,8 @@ Soy una persona curiosa y apasionada por el mundo del Data Science y el Marketin
 - 👨‍💻 Visual Code Studio.
 
 ## Idioamas 🛰️:
-- 🇪🇸 Español (nativo).
-- 🇬🇧 Ingles intermedio (B1) progresando hacia un nivel más avanzado (B2).
+- Español (nativo).
+- Inglés intermedio (B1) progresando hacia un nivel más avanzado (B2).
 
 ## Contacto 📧:
 - 📬 Gamil: Alexvillaestada@gmail.com
