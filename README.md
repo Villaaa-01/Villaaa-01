@@ -27,10 +27,10 @@ Soy una persona curiosa y apasionada por el mundo del Data Science y el Marketin
 - 🕸️Deap Learning.
 
 ### Nube ☁️:
-- 🐙Git Hub.
+- 🐙 Git Hub.
 
 ### Entornos de trabajo 💻:
-- 📝Jupyter Notebook.
+- 📝 Jupyter Notebook.
 - 👨‍💻Visual Code Studio.
 
 ---
