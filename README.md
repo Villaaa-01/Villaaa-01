@@ -1,4 +1,4 @@
-## Holaaa, soy Alejandro Villa Estada 👋
+# Holaaa, soy Alejandro Villa Estada 👋
 
 Graduado en Marketing e Investigación de Mercados cursando actualmente un Master en Data Science.
 
@@ -10,33 +10,33 @@ Soy una persona curiosa y apasionada por el mundo del Data Science y el Marketin
 
 ---
 
-## 🔧🧰 Herramientas que estoy aprendiendo 🔍:
+# 🔧🧰 Herramientas que estoy aprendiendo 🔍:
 
-# Lenguajes 🗣️:
+### Lenguajes 🗣️:
 - 🐍 Python.
 
-# Bases de Datos 📂:
+### Bases de Datos 📂:
 - 🗄️ SQL
 
-# Visualización de Datos 📈:
+### Visualización de Datos 📈:
 - 📊 Power BI.
 - 📉 Tableau.
 
-# Intelgencia Artificial 🧠: 
+### Intelgencia Artificial 🧠: 
 - 🤖 Machine Learning.
 - 🕸️  Deap Learning.
 
-# Nube ☁️:
+### Nube ☁️:
 - 🐙 Git Hub.
 
-# Entornos de trabajo 💻:
+### Entornos de trabajo 💻:
 - 📝 Jupyter Notebook.
 - 👨‍💻 Visual Code Studio.
 
-## Idioamas 🛰️:
+# Idioamas 🛰️:
 - Español (nativo).
 - Inglés intermedio (B1) progresando hacia un nivel más avanzado (B2).
 
-## Contacto 📧:
+# Contacto 📧:
 - 📬 Gamil: Alexvillaestada@gmail.com
 - 💼 LinkedIn: www.linkedin.com/in/alexvillaestada
