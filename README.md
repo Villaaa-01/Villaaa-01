@@ -13,25 +13,25 @@ Soy una persona curiosa y apasionada por el mundo del Data Science y el Marketin
 # 🔧🧰 Herramientas que estoy aprendiendo 🔍
 
 ### Lenguajes 🗣️:
-- 🐍 Python.
+- 🐍Python.
 
 ### Bases de Datos 📂:
-- 🗄️ SQL
+- 🗄️SQL
 
 ### Visualización de Datos 📈:
-- 📊 Power BI.
-- 📉 Tableau.
+- 📊Power BI.
+- 📉Tableau.
 
 ### Intelgencia Artificial 🧠: 
-- 🤖 Machine Learning.
-- 🕸️  Deap Learning.
+- 🤖Machine Learning.
+- 🕸️Deap Learning.
 
 ### Nube ☁️:
-- 🐙 Git Hub.
+- 🐙Git Hub.
 
 ### Entornos de trabajo 💻:
-- 📝 Jupyter Notebook.
-- 👨‍💻 Visual Code Studio.
+- 📝Jupyter Notebook.
+- 👨‍💻Visual Code Studio.
 
 ---
 
@@ -42,5 +42,5 @@ Soy una persona curiosa y apasionada por el mundo del Data Science y el Marketin
 ---
 
 # Contacto 📧:
-- 📬 Gmail: Alexvillaestada@gmail.com
-- 💼 LinkedIn: www.linkedin.com/in/alexvillaestada
+- 📬Gmail: Alexvillaestada@gmail.com
+- 💼LinkedIn: www.linkedin.com/in/alexvillaestada
