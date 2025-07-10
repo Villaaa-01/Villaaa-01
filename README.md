@@ -31,7 +31,7 @@ Soy una persona curiosa y apasionada por el mundo del Data Science y el Marketin
 
 ### Entornos de trabajo 💻:
 - 📝 Jupyter Notebook.
-- 👨‍💻Visual Code Studio.
+- 👨‍💻 Visual Code Studio.
 
 ---
 
